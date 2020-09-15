@@ -1,2 +1,3 @@
-# ds_us_pshootings
+# Welcome
+
 Data Science project analyzing and visualizing the number of US police Shootings 
