@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 changed
+=======
+THis is a test file for dannielR 
+
+EDited once again
+>>>>>>> 40e3b8de38a66527854c3c69380a1946a2d9c890
